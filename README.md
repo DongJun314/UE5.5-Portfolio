@@ -21,10 +21,10 @@ assumptions similar to a real-world game development environment.
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="https://github.com/user-attachments/assets/7ea1ddb4-0965-4105-9828-984f4c3d8c2a" width="400" height="300">
+      <img src="https://github.com/user-attachments/assets/1e599119-c533-4584-8a6b-0cb599d5c6e9" width="400" height="300">
     </td>
     <td style="text-align:center">
-      <img src="https://github.com/user-attachments/assets/cda8c229-92f3-4052-a3a0-d81717911e95" width="400" height="300">
+      <img src="https://github.com/user-attachments/assets/fc355596-9628-48ea-9c52-f5c7792ac9c4" width="400" height="300">
     </td>
   </tr>
   <tr>
@@ -33,10 +33,10 @@ assumptions similar to a real-world game development environment.
   </tr>
   <tr>
     <td style="text-align:center">
-      <img src="https://github.com/user-attachments/assets/2136b6d7-7c41-4c89-9cc6-dc24a8a0a04f" width="400" height="300">
+      <img src="https://github.com/user-attachments/assets/6c7f2224-f25d-474f-8e4b-eae9df017a0b" width="400" height="300">
     </td>
     <td style="text-align:center">
-      <img src="https://github.com/user-attachments/assets/05c23aa8-aff3-450b-98fb-9cba7951aa53" width="400" height="300">
+      <img src="https://github.com/user-attachments/assets/0071e1d2-25ed-4d8d-a436-96e8fd0081f1" width="400" height="300">
     </td>
   </tr>
 </table>
