@@ -12,19 +12,35 @@
   <a href="./README_jp.md">日本語</a>
 </p>
 
----
 
 ## 🌟 ハイライト
 <table>
   <tr>
+    <th style="text-align:center">인벤토리</th>
+    <th style="text-align:center">몬스터 박스</th>
+  </tr>
+  <tr>
     <td style="text-align:center">
-      <img src="<!-- UI or Combat Image URL -->" width="400" height="300">
+      <img src="https://github.com/user-attachments/assets/7ea1ddb4-0965-4105-9828-984f4c3d8c2a" width="400" height="300">
     </td>
     <td style="text-align:center">
-      <img src="<!-- AI or Animation Image URL -->" width="400" height="300">
+      <img src="https://github.com/user-attachments/assets/cda8c229-92f3-4052-a3a0-d81717911e95" width="400" height="300">
+    </td>
+  </tr>
+  <tr>
+    <th style="text-align:center">아이템 박스</th>
+    <th style="text-align:center">맵툴</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="https://github.com/user-attachments/assets/2136b6d7-7c41-4c89-9cc6-dc24a8a0a04f" width="400" height="300">
+    </td>
+    <td style="text-align:center">
+      <img src="https://github.com/user-attachments/assets/05c23aa8-aff3-450b-98fb-9cba7951aa53" width="400" height="300">
     </td>
   </tr>
 </table>
+
 
 <br>
 
