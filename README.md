@@ -44,7 +44,7 @@ assumptions similar to a real-world game development environment.
 <br>
 
 ## 🔗 Link
-- [Gameplay Video](https://youtu.be/Bd5a8q8uKjs)
+- [Gameplay Video](https://youtu.be/gsoqlDl95ws)
 
 <br>
 
