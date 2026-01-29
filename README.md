@@ -1,9 +1,10 @@
 <h1 align="center">🕹️ Unreal Engine 5 個人ポートフォリオ – アクションゲーム クライアントデモ</h1>
 <p align="center">
-  本プロジェクトは、<strong>Unreal Engine 5</strong> を用いた <strong>実践的なクライアント開発経験</strong> を通じて、<br>
-  <strong>UI・アニメーション・AI・データ駆動設計</strong> への理解を深めることを目的として制作しました。<br>
-  実際のゲーム開発現場を想定し、<strong>アクション性の高い戦闘システム</strong> を中心に、<br>
-  システム設計から実装までを個人で行っています。
+本プロジェクトは、<strong>Unreal Engine 5.5</strong> を用いた <strong>実践的なクライアント開発経験</strong> を通じて、<br>
+<strong>UI・アニメーション・AI・データ駆動設計</strong> への理解を深めることを目的として制作しています。<br>
+実際のゲーム開発現場を想定し、ゲームクライアントに必要な各種システムを段階的に設計・実装しながら、<br>
+現在も継続して開発を進めている個人プロジェクトです。
+
 </p>
 
 <p align="center">
